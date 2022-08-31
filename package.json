@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "nfc-pcsc": "^0.8.1"
+  }
+}
